@@ -26,7 +26,7 @@ function About() {
               I am a firm believer that robotics are a central part of our futures and are fascinated by their ability to assist our everday lives. I wish to use my programming expertise to help develop technology which is yet to be discovered. 
               <br></br>
               <br></br>
-              My hobbies include flying my drone (yes that is me trying to fish with), making video edits, playing/buying board games, making music (it isn't that good), catching and researching crayfish and mountain biking. 
+              My hobbies include flying my drone (yes that is me trying to fish), making video edits, playing/buying board games, making music (it isn't that good), catching and researching crayfish and mountain biking. 
               <br></br>
               <br></br>
               Stemming from a enjoyment of catching and researching yabbies when I was younger on the farm dam, I now keep some of my own crayfish in a aquaponics setup. One thing led to another, and I found myself walking up remote waterfalls looking for a spiny crayfish. In my spare time I have furthured this joy, into trying to photograph and observe nearly every creature endemic to Australia.
