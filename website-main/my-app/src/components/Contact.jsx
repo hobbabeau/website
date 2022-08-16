@@ -1,5 +1,5 @@
 import React from "react";
-import {AiTwotoneMail, AiFillLinkedin, AiFillPhone} from 'react-icons/ai';
+import {AiTwotoneMail, AiFillLinkedin, AiFillPhone, AiFillGithub} from 'react-icons/ai';
 import coverphoto from '../images/coverphoto.png'
 
 function Contact() {
@@ -20,7 +20,10 @@ function Contact() {
               <AiTwotoneMail/> hobbabeau@gmail.com
               <br>
               </br>
-              <AiFillLinkedin/> <a href="https://www.linkedin.com/in/beau-hobba/">Beau Hobba LinkedIn</a>
+              <AiFillLinkedin/> <a href="https://www.linkedin.com/in/beau-hobba/">LinkedIn</a>
+              <br>
+              </br>
+              <AiFillGithub/> <a href="https://github.com/beauhobba">Github</a>
               <br>
               </br>
               <AiFillPhone/> 0438018245
